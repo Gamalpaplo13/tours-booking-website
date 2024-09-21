@@ -19,7 +19,7 @@ This is a web application for booking tours, hotels, and plane tickets, built us
 - **Authentication**: 
   - JWT (JSON Web Tokens)
   - Bcrypt for password hashing
-- **Frontend**: (optional - if you have a separate frontend)
+- **Frontend**:
   - HTML/CSS
   - JavaScript
 - **Environment Management**: Dotenv for handling environment variables
